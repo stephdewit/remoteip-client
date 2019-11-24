@@ -1,0 +1,4 @@
+#!/bin/sh
+
+curl --silent https://www.stephanedewit.be/ip
+dig whoami.akamai.net +short
